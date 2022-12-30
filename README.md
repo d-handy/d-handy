@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-handy
 - 👀 I’m interested in geospatial analysis with Python. 
-- 🌱 I’m currently learning server-side development Django and ML methods.
+- 🌱 I’m currently learning server-side development with Django and ML methods.
 
 <!---
 d-handy/d-handy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
